@@ -1,1 +1,1 @@
-I teach tech💻, cook lots 👩‍🍳, make cocktails 🍸, run 🏃‍♀️, lift heavy things🏋️, try to travel ✈️, and do #wycwyc 📗.
+Respository for my work in CS50 -- not sure if they will keep my course repository once completed. 
